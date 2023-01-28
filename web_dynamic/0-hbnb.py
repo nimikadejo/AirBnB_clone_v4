@@ -1,4 +1,4 @@
-@#!/usr/bin/python3
+#!/usr/bin/python3
 """ Starts a Flash Web Application """
 from uuid import uuid4
 from models import storage
