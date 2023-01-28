@@ -1,4 +1,4 @@
-@$(document).ready(init);
+$(document).ready(init);
 
 const HOST = '0.0.0.0';
 const amenityObj = {};
