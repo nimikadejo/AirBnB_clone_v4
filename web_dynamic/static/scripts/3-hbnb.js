@@ -1,4 +1,4 @@
-@$(function () {
+$(function () {
     const storeAmenity = {};
     const getCheckbox = $('input:checkbox');
     getCheckbox.change(function () {
